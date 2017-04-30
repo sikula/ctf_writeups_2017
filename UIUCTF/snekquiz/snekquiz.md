@@ -1,5 +1,5 @@
 
-SnekQuiz - [pwn] - 200pts
+###SnekQuiz - [pwn] - 200pts
 As with each pwning challenge, the first step is to understand how the program works, what input it takes, what output it produces, and see if there are any values that will produce unexpected output.
 
 ![](images/test_run_1.png)
