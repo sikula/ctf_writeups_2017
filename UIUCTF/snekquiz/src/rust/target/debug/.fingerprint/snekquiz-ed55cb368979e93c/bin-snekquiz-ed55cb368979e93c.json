@@ -1,0 +1,1 @@
+{"rustc":124232599886749906,"features":"[]","target":8326148825652540480,"profile":14528549471338536373,"deps":[["bufstream v0.1.3",5728951539016431827]],"local":{"MtimeBased":[[1493442895,961370970],"/home/sikula/Programs/git_stuff/ctf_writeups_2017/UIUCTF/snekquiz/src/rust/target/debug/.fingerprint/snekquiz-ed55cb368979e93c/dep-bin-snekquiz-ed55cb368979e93c"]},"rustflags":[]}

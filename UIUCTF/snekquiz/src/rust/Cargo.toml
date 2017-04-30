@@ -1,0 +1,7 @@
+[package]
+name = "snekquiz"
+version = "0.1.0"
+authors = ["Peter Sikula <peter.sikula@saigar.io>"]
+
+[dependencies]
+bufstream = { version = "0.1.3" }
