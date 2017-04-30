@@ -53,13 +53,13 @@ while True:
         print output
 
 ```
+</br>
 
 And voila!
 ![](images/the_flag.png)
 
 
-
-**Side Note**
+#### Side Note
 I had a bit of time on my hands, so I also wrote the same exploit in `Rust` because why not.
 
 ```rust
